@@ -2,7 +2,7 @@
 
 > A dark theme for [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/).
 
-![Screenshot](https://github.com/gkroon/dracula-putty/dracula-putty.png)
+![Screenshot](https://github.com/gkroon/dracula-putty/raw/master/dracula-putty.png)
 
 ## Install
 
