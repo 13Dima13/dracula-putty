@@ -16,7 +16,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![Guido Kroon](https://avatars0.githubusercontent.com/u/8877690?v=3&s=70)](https://github.com/gkroon) |
 --- |
-[Guido Kroon](https://github.com/gkroon)
+[Guido Kroon](https://github.com/gkroon) |
 
 ## License
 
