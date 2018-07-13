@@ -6,7 +6,8 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/putty](https://draculatheme.com/putty)
+~~All instructions can be found at [draculatheme.com/putty](https://draculatheme.com/putty)~~
+Run the PowerShell script to add a new Dracula session to the registry in the current user's HKU registry hive.
 
 ## Team
 
